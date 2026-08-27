@@ -38,4 +38,4 @@ No extra dependencies — download and run.
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> Provided for educational and utility purposes only. Use at your own discretion.                    
+> Provided for educational and utility purposes only. Use at your own discretion.                     
